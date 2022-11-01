@@ -12,6 +12,6 @@ I understand that it is only beginning of my studying,
 but it always the most difficult.
 
 
-## Have a nice day! 
+## Have a nice day! 🙂
 
 ##                     *Yuliia*
