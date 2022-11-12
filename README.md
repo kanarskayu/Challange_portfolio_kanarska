@@ -14,4 +14,55 @@ but it always the most difficult.
 
 ## Have a nice day! 🙂
 
-##                     *Yuliia*
+##                     *Julia*
+
+
+
+
+# Task 2: Selectors
+
+## Elements:
+## 1. scouts_panel_xpath
+
+//*/div/div[1]/h5
+
+//*[text()="Scouts Panel"]
+
+//child::div/h5
+
+## 2. login_field_xpath
+ 
+//*/div/div[1]/div[1]/div
+
+//*[@id='login']
+
+//*[@name='login'] 
+
+## 3. password_field_xpath
+
+//*/div/div[1]/div[2]/div
+
+//*[@id='password']
+
+//*[@name='password'] 
+
+## 4. remind_password_hyperlink_xpath
+
+//child::div/a
+
+//*[text()="Remind password"]
+
+//*[@id="__next"]/form/div/div[1]/a
+
+## 5. language_changing_xpath
+
+//*[@id="__next"]/form/div/div[2]/div/div
+
+//*[contains(@class, "MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input")]
+
+
+## 6. sign_in_button_xpath
+
+//*/div/div[2]/button/span[1]
+
+//*[contains(@class, "MuiButton-label")]
